@@ -1,6 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/clair3st/Seattle-parks-sporting-features.svg?label=ready&title=Ready)](http://waffle.io/clair3st/Seattle-parks-sporting-features)
 
-## Code Fellows 301 Final Project: Field Finders
+## Seattle Field Finder
 
 ![alt text](img/fieldfinders-logo.png) [Field Finders on Heroku](http://field-finder.herokuapp.com/)
 
@@ -30,8 +30,6 @@ Our search results provide users with:
 
 
 ## About the Hackers:
-
-Build in only 4 days for the final project of Codefellows 301.
 
 [Claire Gatenby](https://github.com/clair3st)
 
